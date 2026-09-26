@@ -34,4 +34,3 @@ that is poorly structured and badly written!
   example, `python exercise1.py`.
   
 * A notebook with brief summaries of each task description is also provided. Use this to proto-type your code before turning your solutions into Python scripts.
-jkhjgyh
